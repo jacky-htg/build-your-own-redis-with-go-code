@@ -1,0 +1,78 @@
+{
+  "version": "1.0",
+  "timestamp": 1784477051,
+  "num_shards": 16,
+  "total_items": 1,
+  "shards": [
+    {
+      "id": 0,
+      "items": {}
+    },
+    {
+      "id": 1,
+      "items": {}
+    },
+    {
+      "id": 2,
+      "items": {}
+    },
+    {
+      "id": 3,
+      "items": {}
+    },
+    {
+      "id": 4,
+      "items": {}
+    },
+    {
+      "id": 5,
+      "items": {}
+    },
+    {
+      "id": 6,
+      "items": {}
+    },
+    {
+      "id": 7,
+      "items": {}
+    },
+    {
+      "id": 8,
+      "items": {}
+    },
+    {
+      "id": 9,
+      "items": {}
+    },
+    {
+      "id": 10,
+      "items": {}
+    },
+    {
+      "id": 11,
+      "items": {}
+    },
+    {
+      "id": 12,
+      "items": {}
+    },
+    {
+      "id": 13,
+      "items": {
+        "user:212": {
+          "Value": "Jalasurta",
+          "Expiration": 0,
+          "CreatedAt": 1784467684203587000
+        }
+      }
+    },
+    {
+      "id": 14,
+      "items": {}
+    },
+    {
+      "id": 15,
+      "items": {}
+    }
+  ]
+}
